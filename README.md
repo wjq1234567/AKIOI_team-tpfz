@@ -1,4 +1,4 @@
-ㅤㅤㅤㅤㅤ|  ㅤㅤ[首页](https://wjq1234567.github.io/AKIOI_team/)  ㅤㅤ|ㅤㅤㅤㅤ[陶片放逐](https://wjq1234567.github.io/AKIOI_team-tpfz/)  ㅤㅤ|
+ㅤㅤㅤㅤㅤ|  ㅤㅤ[首页](https://wjq1234567.github.io/AKIOI_team/)  ㅤㅤ|ㅤㅤ[陶片放逐](https://wjq1234567.github.io/AKIOI_team-tpfz/)  ㅤㅤ|
 
 关于团队用户的权限变更都将在这里显示，以提升管理透明度。
 
@@ -12,3 +12,4 @@
 
 |时间|用户名|权限|
 |:--:|:--:|:--:|
+| | |
